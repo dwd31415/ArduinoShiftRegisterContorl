@@ -1,6 +1,8 @@
 #ifndef _SHIFT_REGISTER_CONTROL_
 #define _SHIFT_REGISTER_CONTROL_
 
+#include "Arduino.h"
+
 class ShiftRegister
 {
    public:
